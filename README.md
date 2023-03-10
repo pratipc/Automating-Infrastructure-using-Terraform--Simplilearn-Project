@@ -1,4 +1,4 @@
-# pratipc-Automating-Infrastructure-using-Terraform--Simplilearn-Project
+# Automating-Infrastructure-using-Terraform--Simplilearn-Project
 This is the course-end project of DevOps certification training
 
 To run this example you need to execute:
